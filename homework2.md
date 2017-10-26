@@ -5,7 +5,7 @@
 ---
 
 ##------------------------------
-###*What is git workflow?*
+###<font color=#800080>*What is git workflow?*</font>
 ##------------------------------
 
 ----
@@ -29,8 +29,23 @@
 
 ---
 ##------------------------------
-###*Why git workflow?*
+###<font color=#800080>*Why git workflow?*</font>
 ##------------------------------
 
 ---
+####|> Advantages <|
+#####<font color=DDA0DD>Feature Branch</font>
+######*1*. Provide an isolated environment for every change to your codebase. 
+######*2*. Let you represent development work at the same granularity as the your agile backlog. 
 
+---
+####|> Advantages <|
+#####<font color=DDA0DD>Distributed Development</font>
+######Get our own local repository, complete with a full history of commits.
+#####<font color=DDA0DD>Community</font>
+######Expected version control system for new projects
+
+---
+###-------------------------------------
+###<font color=#800080>*How to use git workflow*</font>
+###-------------------------------------
